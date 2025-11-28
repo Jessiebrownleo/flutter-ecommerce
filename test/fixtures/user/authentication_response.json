@@ -1,0 +1,13 @@
+{
+    "success": true,
+    "data": {
+        "user": {
+            "id": "h4TBQ1cHfJMEXe_PNxe6l",
+            "email": "soben123@gmail.com",
+            "name": "soben",
+            "role": "user"
+        },
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJoNFRCUTFjSGZKTUVYZV9QTnhlNmwiLCJlbWFpbCI6InNvYmVuMTIzQGdtYWlsLmNvbSIsInJvbGUiOiJ1c2VyIiwiZXhwIjoxNzY0MjE4NjQ4fQ.2KsLpYFz03lLbpQ9vkvKXAMwhJxaPF9jEgYGx0jhEuQ"
+    },
+    "message": "Logged in successfully"
+}
